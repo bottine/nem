@@ -1,0 +1,15 @@
+[package]
+name = "darts_and_maps"
+version = "0.1.0"
+authors = ["Rémi Bottinelli <remi.bottinelli@unine.ch>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rayon = "1.1"
+bit-set = "0.5.1"
+bit-vec = "0.6.1"
+auto_ops = "0.1.0"
+rand = "0.7.3"
+gcd = "1.2.0"
